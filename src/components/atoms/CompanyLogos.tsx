@@ -6,7 +6,7 @@ function CompanyLogos() {
     "NETFLIX",
     "Disney",
     "airbnb",
-    "Meta"
+    "Meta",
   ];
 
   return (

@@ -1,7 +1,6 @@
-import Hero from "../components/Hero";
-import CompanyLogos from "../components/CompanyLogos";
-import Overview from "../components/Overview";
-import DecorativeElements from "../components/DecorativeElements";
+import { Hero, Overview } from "../features/home";
+import DecorativeElements from "../components/atoms/DecorativeElements";
+import CompanyLogos from "../components/atoms/CompanyLogos";
 
 function Home() {
   return (
