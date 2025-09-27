@@ -2,7 +2,7 @@ import ThemeToggle from "./ThemeToggle";
 
 function Navigation() {
   return (
-    <nav className="absolute top-6 left-1/2 transform -translate-x-1/2 z-10">
+    <nav className="sticky top-6 z-10 w-full flex justify-center">
       <div className="bg-white/80 dark:bg-slate-800/40 backdrop-blur-md rounded-full px-8 py-3 border border-slate-200/20 dark:border-slate-700/20">
         <div className="flex items-center space-x-8 text-sm gap-4">
           <a href="#home" className="text-slate-900 dark:text-white">

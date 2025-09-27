@@ -10,7 +10,7 @@ function App() {
     <div
       className={`${
         theme === "dark" ? "dark" : ""
-      } min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300`}
+      } min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-white relative transition-colors duration-300`}
     >
       <Navbar />
       <Routes>
