@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/organisms/Navbar";
 import Home from "./pages/Home";
 import { useThemeStore } from "./store/themeStore";
 
