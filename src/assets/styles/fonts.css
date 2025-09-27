@@ -1,0 +1,84 @@
+/* Pockota Font Family */
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-LightItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-MediumItalic.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-BoldItalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-ExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-ExtraBoldItalic.otf") format("opentype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pockota";
+  src: url("../fonts/pockota/Pockota-BlackItalic.otf") format("opentype");
+  font-weight: 900;
+  font-style: italic;
+}
