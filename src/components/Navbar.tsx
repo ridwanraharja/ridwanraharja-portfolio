@@ -1,11 +1,6 @@
 import ThemeToggle from "./ThemeToggle";
 
-interface NavigationProps {
-  theme: string;
-  setTheme: (theme: string) => void;
-}
-
-function Navigation({ theme, setTheme }: NavigationProps) {
+function Navigation() {
   return (
     <nav className="absolute top-6 left-1/2 transform -translate-x-1/2 z-10">
       <div className="bg-white/80 dark:bg-slate-800/40 backdrop-blur-md rounded-full px-8 py-3 border border-slate-200/20 dark:border-slate-700/20">
@@ -31,7 +26,7 @@ function Navigation({ theme, setTheme }: NavigationProps) {
           >
             FAQ
           </a>
-          <ThemeToggle theme={theme} setTheme={setTheme} />
+          <ThemeToggle />
         </div>
       </div>
     </nav>
