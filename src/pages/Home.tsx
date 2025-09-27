@@ -1,5 +1,6 @@
 import Hero from "../components/Hero";
 import CompanyLogos from "../components/CompanyLogos";
+import Overview from "../components/Overview";
 import DecorativeElements from "../components/DecorativeElements";
 
 function Home() {
@@ -8,6 +9,7 @@ function Home() {
       <DecorativeElements />
       <Hero />
       <CompanyLogos />
+      <Overview />
 
       {/* Temporary content for testing sticky navbar */}
       <div className="h-screen bg-gradient-to-b from-slate-50 to-slate-100 dark:from-slate-800 dark:to-slate-900 flex items-center justify-center">

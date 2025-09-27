@@ -23,15 +23,14 @@ function Hero() {
 
       <div className="text-center max-w-3xl mx-auto">
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-          Welcome to
+          Hi,
           <br />
-          my digital humble abode
+          I'm <span className="text-emerald-400">Ridwan Raharja</span>
         </h1>
 
         <p className="text-lg md:text-xl text-slate-600 dark:text-slate-400 mb-12 leading-relaxed max-w-lg mx-auto">
-          I'm an independent designer.
-          <br />
-          My interest lies in brand experience, and user experience.
+          I develop backend services, user interfaces, and blockchain
+          applications.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
