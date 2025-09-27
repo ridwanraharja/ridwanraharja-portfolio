@@ -1,5 +1,5 @@
 import { HiOutlineSun, HiOutlineMoon } from "react-icons/hi2";
-import { useThemeStore } from "../store/themeStore";
+import { useThemeStore } from "../../store/themeStore";
 
 function ThemeToggle() {
   const { theme, toggleTheme } = useThemeStore();
